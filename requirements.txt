@@ -1,0 +1,16 @@
+# Langchain Core
+langchain
+langchain-core
+
+#OpenAI Integration
+langchain-openai
+openai
+
+#Google Gemini Integration
+langchain_google_genai
+
+#Environment Variable Management
+python-dotenv
+
+#Anthropic INtegration
+langchain-anthropic
