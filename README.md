@@ -177,3 +177,10 @@ Examples:
 - Llama
 - Gemini
 - Claude
+
+  ## Types of Models
+
+LangChain primarily works with two types of models:
+
+- **Chat Models** – Used to generate text, answer questions, summarize content, and hold conversations.
+- **Embedding Models** – Used to convert text into vector representations for semantic search, similarity matching, and Retrieval-Augmented Generation (RAG).
